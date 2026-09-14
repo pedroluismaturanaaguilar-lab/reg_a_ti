@@ -1,0 +1,14 @@
+{
+  "name": "regalo-interactivo",
+  "version": "1.0.0",
+  "description": "Regalo interactivo con QR: foto al azar, sistema solar y panel de administracion.",
+  "main": "server.js",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

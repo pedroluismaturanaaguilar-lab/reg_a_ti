@@ -1,0 +1,24 @@
+{
+  "photos": [],
+  "photoExperiences": {},
+  "theme": { "primary": "#ff4d8d", "bg": "#07060f", "font": "Poppins", "anim": "auto" },
+  "experiences": {
+    "solar": {
+      "sol":      { "name": "Sol",      "color": "#ffb300", "type": "text",  "items": ["Nunca olvides que no estás sola. Hay personas que te quieren, que creen en ti y que siempre estarán ahí para recordarte lo increíble que eres."] },
+      "mercurio": { "name": "Mercurio", "color": "#b9b9b9", "type": "chips", "items": ["Te quiero ❤️","Te adoro","Mi niña","Mi bebé","Bonita","Preciosa","Hermosa","Mi amor","Mi vida","Mi cielo"] },
+      "venus":    { "name": "Venus",    "color": "#f0c060", "type": "chips", "items": ["Me haces feliz.","Me encanta tu sonrisa.","Amo estar contigo.","Me encanta escucharte.","Eres muy especial para mí.","Contigo todo se siente diferente."] },
+      "tierra":   { "name": "Tierra",   "color": "#4aa3ff", "type": "text",  "items": ["De todos los lugares que existen en este mundo, qué bonito haber coincidido contigo. 🌎❤️"] },
+      "marte":    { "name": "Marte",    "color": "#e2603c", "type": "chips", "items": ["Tú puedes.","No te rindas.","Sigue adelante.","Eres más fuerte de lo que crees.","Confía en ti.","Vas a lograrlo. ❤️"] },
+      "jupiter":  { "name": "Júpiter",  "color": "#e0a06a", "type": "chips", "items": ["Eres increíble ❤️","Eres especial ✨","Eres única","Nunca cambies","Sonríe 😊","Sigue brillando ✨","Te admiro","Te quiero muchísimo ❤️"] },
+      "saturno":  { "name": "Saturno",  "color": "#e6d29a", "type": "chips", "items": ["Cada momento contigo vale la pena. ❤️","Gracias por cada sonrisa.","Gracias por cada abrazo.","Gracias por estar."] },
+      "urano":    { "name": "Urano",    "color": "#7fe3e0", "type": "chips", "items": ["Nunca dejes de soñar. ✨","Todo lo bonito que deseas puede llegar.","Cree en ti.","Tu futuro puede ser increíble."] },
+      "neptuno":  { "name": "Neptuno",  "color": "#5b7bff", "type": "text",  "items": ["Aunque algunas veces las cosas no sean fáciles, recuerda que eres una persona valiosa, capaz y llena de cosas bonitas. Nunca dudes de todo lo que puedes lograr."] }
+    },
+    "carta":      { "name": "Carta",          "type": "letter", "items": ["Hola mi amor:\n\nQuería recordarte lo especial que eres para mí y lo mucho que significas en mi vida.\n\n(Escribe aquí tu carta completa desde el panel de administración.)"] },
+    "amor":       { "name": "Frases de amor", "type": "chips",  "items": ["Te quiero mucho ❤️","Eres mi persona favorita","Me haces muy feliz","Gracias por existir ✨","Contigo todo es mejor"] },
+    "motivacion": { "name": "Motivación",     "type": "chips",  "items": ["Tú puedes 🌟","No te rindas","Confía en ti","Eres más fuerte de lo que crees","Vas a lograrlo ❤️"] },
+    "recuerdos":  { "name": "Recuerdos",      "type": "chips",  "items": ["Cada momento contigo vale la pena ❤️","Gracias por cada sonrisa","Gracias por cada abrazo","Gracias por estar"] },
+    "sorpresa":   { "name": "Sorpresa",       "type": "chips",  "items": ["🎁 Hoy quería recordarte lo especial que eres.","✨ Nunca olvides lo mucho que vales.","💖 Alguien pensó en ti al crear esto."] },
+    "galeria":    { "name": "Galería",        "type": "gallery","items": [] }
+  }
+}
