@@ -1,6 +1,7 @@
 {
   "photos": [],
   "photoExperiences": {},
+  
   "theme": { "primary": "#ff4d8d", "bg": "#07060f", "font": "Poppins", "anim": "auto" },
   "experiences": {
     "solar": {
@@ -14,11 +15,11 @@
       "urano":    { "name": "Urano",    "color": "#7fe3e0", "type": "chips", "items": ["Nunca dejes de soñar. ✨","Todo lo bonito que deseas puede llegar.","Cree en ti.","Tu futuro puede ser increíble."] },
       "neptuno":  { "name": "Neptuno",  "color": "#5b7bff", "type": "text",  "items": ["Aunque algunas veces las cosas no sean fáciles, recuerda que eres una persona valiosa, capaz y llena de cosas bonitas. Nunca dudes de todo lo que puedes lograr."] }
     },
-    "carta":      { "name": "Carta",          "type": "letter", "items": ["Hola mi amor:\n\nQuería recordarte lo especial que eres para mí y lo mucho que significas en mi vida.\n\n(Escribe aquí tu carta completa desde el panel de administración.)"] },
+    "carta":      { "name": "Carta",          "type": "letter", "items": ["💕 Para mi chiquita ❤️\n\nMi chiquita hermosa:\n\nQuiero aprovechar este momento para decirte algo que quizás no siempre te digo con palabras. A veces puedo parecer un poquito frío o no ser el más romántico del mundo, pero eso no significa que no sienta cosas bonitas por ti. Al contrario, me importas muchísimo y me alegra tenerte en mi vida. 🥹❤️\n\nGracias por llegar, por estar ahí conmigo, por hacerme reír y por regalarme momentos que se quedan guardados en mi corazón. Estos dos meses han sido muy bonitos, y espero que sean apenas el comienzo de todo lo que nos falta por vivir juntos. 💕\n\nTambién quiero que sepas que deseo verte cumplir tus sueños, alcanzar tus metas y sentirte orgullosa de la mujer que eres. No te rindas cuando las cosas se pongan difíciles. Recuerda siempre lo valiosa, fuerte y especial que eres. Y si algún día necesitas una mano, un abrazo o simplemente alguien que te escuche, quiero que sepas que puedes contar conmigo. 🫂❤️\n\nNo te prometo ser perfecto, pero sí quiero seguir aprendiendo, mejorando y construyendo contigo algo bonito, con cariño, respeto y mucha sinceridad.\n\nGracias por ser tú, mi chiquita. Te quiero muchísimo y espero que nunca olvides lo especial que eres para mí. ❤️🥹\n\nCon mucho cariño,\nTu flaquito. ❤️"] },
     "amor":       { "name": "Frases de amor", "type": "chips",  "items": ["Te quiero mucho ❤️","Eres mi persona favorita","Me haces muy feliz","Gracias por existir ✨","Contigo todo es mejor"] },
     "motivacion": { "name": "Motivación",     "type": "chips",  "items": ["Tú puedes 🌟","No te rindas","Confía en ti","Eres más fuerte de lo que crees","Vas a lograrlo ❤️"] },
     "recuerdos":  { "name": "Recuerdos",      "type": "chips",  "items": ["Cada momento contigo vale la pena ❤️","Gracias por cada sonrisa","Gracias por cada abrazo","Gracias por estar"] },
-    "sorpresa":   { "name": "Sorpresa",       "type": "chips",  "items": ["🎁 Hoy quería recordarte lo especial que eres.","✨ Nunca olvides lo mucho que vales.","💖 Alguien pensó en ti al crear esto."] },
-    "galeria":    { "name": "Galería",        "type": "gallery","items": [] }
+    "sorpresa":   { "name": "Sorpresa",       "type": "chips",  "items": ["🎁 Hoy quería recordarte lo especial que eres.","✨ Nunca olvides lo mucho que vales.","💖 recuerda Alguien pensó en ti al crear esto."] },
+    "galeria":    { "name": "Galería",        "type": "gallery","items": ["🌷 Recuerda, mi chiquita, que no tienes que cargar con todo tú sola. Siempre habrá personas que te quieren, que creen en ti y que estarán ahí para apoyarte. Y entre ellas, también estoy yo. ❤️🥹"] }
   }
 }
