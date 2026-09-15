@@ -680,12 +680,14 @@ function renderExperience(key){
           ? data.photos.map((p, i) => `<img src="${p.url}" alt="" style="animation-delay:${i*70}ms">`).join('')
           : '<p class="muted">Aún no hay fotos en la galería.</p>'
       }</div>`;
-  } else if(e.type === 'letter'){
+
+    
+   } else if(e.type === 'letter'){
     html = `<div class="letter">
-        <div class="letter-top">💌</div>
-        <h2>${esc(e.name)}</h2>
         <div class="letter-body">${esc(e.items.join('\n')).replace(/\n/g,'<br>')}</div>
       </div>`;
+
+    
   } else if(key === 'sorpresa'){
     const list = e.items.length ? e.items : ['🎁'];
     const item = list[Math.floor(Math.random() * list.length)];
